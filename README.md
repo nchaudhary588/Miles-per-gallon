@@ -7,7 +7,9 @@
 using namespace std;
 
 int main()
+
 {
+
     double miles, gallons, MilesPerGallons;
     
     
